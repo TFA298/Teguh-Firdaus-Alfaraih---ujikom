@@ -25,7 +25,7 @@ public class Main_Menu : MonoBehaviour
     }
 
     void Play_Button(){
-        
+        SceneManager.LoadScene("GamePlay");
     }
 
     void Exit_Button(){
