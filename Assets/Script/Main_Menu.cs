@@ -15,7 +15,7 @@ public class Main_Menu : MonoBehaviour
     {
         // SceneManager.LoadScene("Main_Menu");
         var button = play_Button.GetComponent<Button>();
-        // button.
+        
     }
 
     // Update is called once per frame
