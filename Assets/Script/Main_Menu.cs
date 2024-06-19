@@ -13,13 +13,15 @@ public class Main_Menu : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        SceneManager.LoadScene("Main_Menu");
+        // SceneManager.LoadScene("Main_Menu");
+        var button = play_Button.GetComponent<Button>();
+        // button.
     }
 
     // Update is called once per frame
     void Update()
     {
-
+        
     }
 
     void Play_Button(){
